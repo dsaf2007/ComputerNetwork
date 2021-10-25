@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dsaf2007/repos/ComputerNetwork/make/CDMA.c
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+errno.h
+-
+

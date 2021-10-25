@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/../app.out.dir/CDMA.c.o  -o ../app.out 
